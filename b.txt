@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 mesmo codigo!
 =======
 mesmo codigo
 >>>>>>> teste
+=======
+mesmo codigo!
+>>>>>>> teste2
